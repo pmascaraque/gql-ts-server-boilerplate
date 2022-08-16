@@ -11,7 +11,7 @@ const server = createServer({
     `,
     resolvers: {
       Query: {
-        hello: () => 'Hello from Yoga!',
+        hello: () => 'Hello from Yogaa!',
       },
     },
   },
